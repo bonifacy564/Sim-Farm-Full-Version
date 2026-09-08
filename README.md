@@ -236,3 +236,6 @@ This repository serves as the official landing page for Sim Farm. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sim Farm today!**
+
+---
+**Last updated:** 2026-09-08 17:08:25 UTC
