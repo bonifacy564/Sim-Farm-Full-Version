@@ -238,4 +238,4 @@ This repository serves as the official landing page for Sim Farm. The software i
 **Get the most recent version of Sim Farm today!**
 
 ---
-**Last updated:** 2026-09-14 16:51:59 UTC
+**Last updated:** 2026-09-14 20:48:03 UTC
